@@ -1,4 +1,7 @@
-# Counts
+## Timeseries
+![Number of accidents per year in the database](https://github.com/wckoeppen/whitewater-accidents/blob/main/outputs/latest-ts-count.png)
+- As a crowd-sourced database, it's probably pretty incomplete so I'm not sure what can be drawn from this time series plot.
+
 ## Causes
 ![Number of accidents by cause](https://github.com/wckoeppen/whitewater-accidents/blob/main/outputs/latest-cause-count.png)
 
