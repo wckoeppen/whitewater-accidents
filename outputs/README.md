@@ -2,7 +2,7 @@
 ![Number of accidents per year in the database](https://github.com/wckoeppen/whitewater-accidents/blob/main/outputs/latest-ts-count.png)
 - As a crowd-sourced database, it's probably pretty incomplete so I'm not sure what can be drawn from this time series plot.
 - For example, did accidents really mostly flatten out from 2005 to the present?
-- Some of the individual entries also indicate locations or rivers that are hotspots of under-reported accidents (e.g., one entry suggests that American Whitewater contacts a local Fire Department because they say that people are pulled from the river "daily" by their rescue group).
+- Some of the individual entries also indicate locations or rivers that are hotspots of under-reported accidents (e.g., one entry suggests that American Whitewater contact a local Fire Department because they say that people are pulled from the river "daily" by their practice rescue team).
 
 ## Causes
 ![Number of accidents by cause](https://github.com/wckoeppen/whitewater-accidents/blob/main/outputs/latest-cause-count.png)
